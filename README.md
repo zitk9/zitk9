@@ -1,27 +1,228 @@
-# 💫 About Me:
-À PROPOS<br><br>Je m'appelle Hippolyte, mais je suis surtout connu sous le nom de ! 𝒹𝑒𝒶𝒹⛧𝒸𝑜𝓌.Ghw.<br><br>Je suis développeur et je m'intéresse beaucoup à la cybersécurité. Je fais principalement de l'OSINT, du CSINT, du pentest, mais aussi pas mal de développement web et d'applications.<br><br>Je code surtout en JavaScript, mais je touche à pas mal d'autres langages selon les projets. J'aime aussi tout ce qui concerne les serveurs et l'infrastructure. J'ai notamment travaillé avec Docker, Proxmox et Pterodactyl.<br><br>Je suis aussi le fondateur de CDCLEAK, une petite communauté autour de la tech, du développement et de la cybersécurité.<br><br>Je développe beaucoup de projets juste parce que j'ai envie de voir jusqu'où je peux aller avec. Certains restent privés, d'autres sont partagés en open source, et certains peuvent être proposés à la vente.<br><br>Je suis toujours ouvert aux collaborations, que ce soit pour coder quelque chose, travailler sur un projet de sécurité ou simplement construire un truc intéressant ensemble.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:6d28d9&height=210&section=header&text=DEADCOW.GHW&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DEVELOPER%20%2F%20SECURITY%20RESEARCHER%20%2F%20OSINT&descAlignY=60&descSize=14&descColor=a78bfa" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zith9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hippolyte@hippolyte-dev.ru) 
+<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zitk9&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zitk9&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zitk9&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Hippolyte+%2F+DEADCOW.GHW;Software+Development;Cybersecurity+%26+Security+Research;OSINT+%2F+CSINT;Infrastructure+%26+Automation" alt="Typing SVG"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zitk9&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://github.com/zitk9">
+<img src="https://komarev.com/ghpvc/?username=zitk9&style=flat-square&color=6d28d9&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zitk9&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=zitk9&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+```text
+Hippolyte
+aka ! 𝒹𝑒𝒶𝒹⛧𝒸𝑜𝓌.Ghw
+
+Developer and cybersecurity enthusiast.
+
+Primary interests:
+- Software development
+- Security research
+- OSINT / CSINT
+- Pentesting
+- Automation
+- Infrastructure
+- Self-hosting
+
+Primary stack:
+JavaScript / TypeScript
+
+Additional languages and technologies:
+Python, PHP, C#, PowerShell, SQL, Linux
+```
+
+---
+
+## `about`
+
+Independent developer working across software development, cybersecurity and infrastructure.
+
+Most of my work involves building web applications, developer tools, automation, security tooling and experimental software.
+
+I also work with self-hosted infrastructure and services, including Docker, Proxmox, Pterodactyl, Nginx and Linux.
+
+Founder of **CDCLEAK**, a community focused on technology, development and cybersecurity.
+
+> Build. Analyze. Improve.
+
+---
+
+## `stack`
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,cs,powershell,html,css,md&perline=9" />
+</p>
+
+### Frameworks / Runtime
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,vite,vue,electron,bootstrap,npm&perline=8" />
+</p>
+
+### Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,cloudflare,proxmox,github,git&perline=8" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,supabase&perline=8" />
+</p>
+
+### Security
+
+<p align="left">
+<img src="https://img.shields.io/badge/OSINT-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/CSINT-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Pentesting-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%20Research-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Tor-111111?style=flat-square&logo=torproject&logoColor=white" />
+</p>
+
+---
+
+## `focus`
+
+```text
+Web Development
+JavaScript / TypeScript
+Cybersecurity
+OSINT / CSINT
+Security Tooling
+Automation
+Linux
+Infrastructure
+Self-hosting
+Open Source
+```
+
+---
+
+## `infrastructure`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,proxmox&perline=5" />
+</p>
+
+<p align="center">
+Docker · Proxmox · Pterodactyl · Nginx · Linux · Self-hosting
+</p>
+
+---
+
+## `github`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zitk9&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitk9&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zitk9&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280" />
+
+</div>
+
+---
+
+## `activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zitk9&bg_color=0d1117&color=9ca3af&line=7c3aed&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+## `wakatime`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zitk9&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&langs_count=8" />
+
+</div>
+
+---
+
+## `contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zitk9/zitk9/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## `trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zitk9&theme=onestar&no-frame=true&no-bg=true&margin-w=5&row=1&column=7" />
+
+</div>
+
+---
+
+## `projects`
+
+<div align="center">
+
+<a href="https://github.com/zitk9/YOUR_REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zitk9&repo=YOUR_REPO_1&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/zitk9/YOUR_REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zitk9&repo=YOUR_REPO_2&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+## `contact`
+
+<div align="center">
+
+<a href="https://discord.gg/cdcleak">
+<img src="https://img.shields.io/badge/Discord-CDCLEAK-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
+
+ 
+
+<a href="mailto:hippolyte@hippolyte-dev.ru">
+<img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zitk9&style=flat-square&color=6d28d9&label=VISITORS" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:111111,100:050505&height=100&section=footer" width="100%"/>
+
+</div>
