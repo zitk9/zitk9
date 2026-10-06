@@ -1,125 +1,27 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/VMg50i4MnoAAAAAd/book-sparkles.gif"
-       alt="Banner"
-       width="1000"
-       height="550"/>
-</p>
-
-<h1 align="center">Salut, moi c’est Hippolyte</h1>
-
-<p align="center">
-  <strong>Développeur Full-Stack • Web • Open-Source</strong><br>
-</p>
-<p align="center" style="background-color:#000000;padding:10px;border-radius:8px;">
-  <a href="https://wakatime.com/@af6ff179-b9a5-42f6-953c-e825c9dab0bf">
-    <img
-      src="https://wakatime.com/badge/user/af6ff179-b9a5-42f6-953c-e825c9dab0bf.svg"
-      alt="Total time coded since Jan 24 2026"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Hippolyte59?label=Followers&color=181717&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Hippolyte59&label=Profile%20Views&color=181717&style=for-the-badge" alt="Profile views" />
-</p>
+# 💫 About Me:
+À PROPOS<br><br>Je m'appelle Hippolyte, mais je suis surtout connu sous le nom de ! 𝒹𝑒𝒶𝒹⛧𝒸𝑜𝓌.Ghw.<br><br>Je suis développeur et je m'intéresse beaucoup à la cybersécurité. Je fais principalement de l'OSINT, du CSINT, du pentest, mais aussi pas mal de développement web et d'applications.<br><br>Je code surtout en JavaScript, mais je touche à pas mal d'autres langages selon les projets. J'aime aussi tout ce qui concerne les serveurs et l'infrastructure. J'ai notamment travaillé avec Docker, Proxmox et Pterodactyl.<br><br>Je suis aussi le fondateur de CDCLEAK, une petite communauté autour de la tech, du développement et de la cybersécurité.<br><br>Je développe beaucoup de projets juste parce que j'ai envie de voir jusqu'où je peux aller avec. Certains restent privés, d'autres sont partagés en open source, et certains peuvent être proposés à la vente.<br><br>Je suis toujours ouvert aux collaborations, que ce soit pour coder quelque chose, travailler sur un projet de sécurité ou simplement construire un truc intéressant ensemble.
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white">
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zith9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hippolyte@hippolyte-dev.ru) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zitk9&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=zitk9&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zitk9&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zitk9&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zitk9&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=zitk9&icon=0&color=7)](https://visitcount.itsvg.in)
 
-## Vision & Philosophie
-
-<p align="center">
-  <strong><em>
-    Le savoir est une arme.<br>
-    La vraie puissance n’est pas dans la force brute, mais dans la maîtrise de l’esprit 
-  </em></strong>
-</p>
-
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/nfxSwP9d3ZgAAAAd/nichijou-anime.gif"
-       width="1000"
-       height="550"/>
-</p>
-
----
-
-## Compétences Techniques
-
-<h4 align="center">Front-End</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white">
-</p>
-
-<h4 align="center">Back-End</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
-</p>
-
-<h4 align="center">Données & Infra</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white">
-</p>
-
----
-
-## Activité GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte59&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Hippolyte59 Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte59&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hippolyte59&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=333333" alt="Streak Stats" />
-</div>
-
----
-
-## Centres d’intérêt
-
-<p align="center">
-  Web • Sécurité • Apprentissage • Open-Source
-</p>
-
----
-
-## Me contacter
-
-<p align="center">
-  <a href="mailto:hippolyte@hippolyte-dev.ru">hippolyte@hippolyte-dev.ru</a> •
-  <a href="https://hippolyte-dev.ru">hippolyte-dev.ru</a> 
-</p>
-
-<p align="center">
-  Merci de ta visite — à très bientôt !
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
