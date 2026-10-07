@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:6d28d9&height=210&section=header&text=DEADCOW.GHW&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DEVELOPER%20%2F%20SECURITY%20RESEARCHER%20%2F%20OSINT&descAlignY=60&descSize=14&descColor=a78bfa" width="100%"/>
 
 <br>
 
@@ -143,41 +142,11 @@ Docker · Proxmox · Pterodactyl · Nginx · Linux · Self-hosting
 
 ---
 
-## `activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zitk9&bg_color=0d1117&color=9ca3af&line=7c3aed&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
 ## `wakatime`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zitk9&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&langs_count=8" />
-
-</div>
-
----
-
-## `contributions`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zitk9/zitk9/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
-
-</div>
-
----
-
-## `trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zitk9&theme=onestar&no-frame=true&no-bg=true&margin-w=5&row=1&column=7" />
+[![wakatime](https://img.shields.io/badge/wakatime-124%20hrs%2034%20mins-A78BFA?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@af6ff179-b9a5-42f6-953c-e825c9dab0bf)
 
 </div>
 
@@ -204,10 +173,13 @@ Docker · Proxmox · Pterodactyl · Nginx · Linux · Self-hosting
 <div align="center">
 
 <a href="https://discord.gg/cdcleak">
-<img src="https://img.shields.io/badge/Discord-CDCLEAK-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-CDCLEAK-A78BFA?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
- 
+
+<a href="https://discord.gg/reachers">
+<img src="https://img.shields.io/badge/Discord-REACHERS-A78BFA?style=flat-square&logo=discord&logoColor=white" />
+</a>
 
 <a href="mailto:hippolyte@hippolyte-dev.ru">
 <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=flat-square&logo=gmail&logoColor=white" />
@@ -219,7 +191,6 @@ Docker · Proxmox · Pterodactyl · Nginx · Linux · Self-hosting
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zitk9&style=flat-square&color=6d28d9&label=VISITORS" />
 
 <br><br>
 
