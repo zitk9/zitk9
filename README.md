@@ -176,11 +176,6 @@ Docker · Proxmox · Pterodactyl · Nginx · Linux · Self-hosting
 <img src="https://img.shields.io/badge/Discord-CDCLEAK-A78BFA?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
-
-<a href="https://discord.gg/reachers">
-<img src="https://img.shields.io/badge/Discord-REACHERS-A78BFA?style=flat-square&logo=discord&logoColor=white" />
-</a>
-
 <a href="mailto:hippolyte@hippolyte-dev.ru">
 <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=flat-square&logo=gmail&logoColor=white" />
 </a>
